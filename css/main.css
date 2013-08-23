@@ -1,0 +1,77 @@
+* {
+	font-family: Arial;
+	font-size: 20px;
+}
+div {
+	border-radius: 10px;
+}
+
+
+.header {
+	height: 100px;
+	width: auto;
+	background-color: #9370DB;
+	border: 2px dotted black;
+	text-align: center;
+	margin: auto;
+	margin-bottom: 15px;
+	float: top;
+	position: center fixed;
+	text-decoration: none;
+
+}
+
+.left{
+	font-size: 20px;
+	font-weight: bold;
+	height: 2000px;
+	width: 200px;
+	background-color: #E6E6FA;
+	float:left;
+	margin-bottom: 10px;
+	padding: 5px 25px 5px 25px;
+	position: relative;
+}
+
+.right{
+	height: 2000px;
+	width: 1250px;
+	background-color: #E6E6FA;
+	float: right;
+	margin-bottom: 10px;
+	padding: 5px 25px 5px 25px;
+}
+.footer {
+	height: 50px;
+	background-color: #9370DB;
+	position: relative;
+	bottom: -1px;
+	clear: both;
+}
+h1 {
+	font-size:40px;
+}
+#panda_pic {
+	border: 2px solid black;
+	height: 435px;
+	width:420px;
+	float:left;
+}
+#right_side {
+	padding-left: 35%;
+}
+.food_table table {
+	border: 1px solid black;
+}
+#subtitles {
+	border: 1px dotted black;
+	font-weight: bold;
+	font-size: 16px;
+}
+#pic {
+	height: 50px;
+	width: 50px;
+}
+td {
+	font-size: 14px;
+}
